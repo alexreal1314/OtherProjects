@@ -1,0 +1,10 @@
+c:\users\alex\documents\visual studio 2015\Projects\FacebookApp\FacebookApp\bin\Debug\FacebookApp.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\FacebookApp\FacebookApp\obj\Debug\FacebookApp.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\FacebookApp\FacebookApp\obj\Debug\FacebookApp.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\FacebookApp\FacebookApp\obj\Debug\FacebookApp.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\FacebookApp\FacebookApp\bin\Debug\FacebookApp.exe
+c:\users\alex\documents\visual studio 2015\Projects\FacebookApp\FacebookApp\bin\Debug\FacebookApp.pdb
+c:\users\alex\documents\visual studio 2015\Projects\FacebookApp\FacebookApp\bin\Debug\Facebook.dll
+c:\users\alex\documents\visual studio 2015\Projects\FacebookApp\FacebookApp\bin\Debug\FbGraphApiWrapper.dll
+c:\users\alex\documents\visual studio 2015\Projects\FacebookApp\FacebookApp\obj\Debug\FacebookApp.exe
+c:\users\alex\documents\visual studio 2015\Projects\FacebookApp\FacebookApp\obj\Debug\FacebookApp.pdb
