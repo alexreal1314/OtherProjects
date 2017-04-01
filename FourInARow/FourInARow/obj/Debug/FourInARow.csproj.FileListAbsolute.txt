@@ -1,0 +1,8 @@
+c:\users\alex\documents\visual studio 2015\Projects\FourInARow\FourInARow\bin\Debug\FourInARow.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\FourInARow\FourInARow\obj\Debug\FourInARow.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\FourInARow\FourInARow\obj\Debug\FourInARow.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\FourInARow\FourInARow\obj\Debug\FourInARow.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\FourInARow\FourInARow\bin\Debug\FourInARow.exe
+c:\users\alex\documents\visual studio 2015\Projects\FourInARow\FourInARow\bin\Debug\FourInARow.pdb
+c:\users\alex\documents\visual studio 2015\Projects\FourInARow\FourInARow\obj\Debug\FourInARow.exe
+c:\users\alex\documents\visual studio 2015\Projects\FourInARow\FourInARow\obj\Debug\FourInARow.pdb
